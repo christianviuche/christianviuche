@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td>
-      <h1>👋 <span style="color:#8C00FF;">Hello!</span> I'm <span style="color:#FF0066;">Christian Andrés Viuche</span></h1>
+      <h1>👋 <span style="color:#8C00FF;">Hello!</span> I'm <span style="color:#FF0066;">Christian Andrés</span></h1>
       <h3>💻 <span style="color:#FC4F00;">Systems Engineering Student</span></h3>
       <p>
   <img src="https://img.shields.io/badge/⚙️%20%20DevOps%20%20-%238C00FF.svg?style=for-the-badge&logoWidth=40" height="40"/>
