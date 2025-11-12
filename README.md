@@ -1,30 +1,22 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="70%" valign="top">
-      <h1>👋 <span style="color:#8C00FF;">¡Hola!</span> Soy <span style="color:#FF0066;">Christian Andrés Viuche</span></h1>
-      <h3>💻 <span style="color:#FC4F00;">Estudiante de Ingeniería de Sistemas</span></h3>
-      <p>
-        <img src="https://img.shields.io/badge/⚙️%20%20DevOps%20%20-%238C00FF.svg?style=for-the-badge&logoWidth=40"/>
-        <img src="https://img.shields.io/badge/🧪%20%20QA%20Automation%20%20-%23FF0066.svg?style=for-the-badge&logoWidth=40"/>
-        <img src="https://img.shields.io/badge/☁️%20%20Cloud%20Computing%20%20-%23FC4F00.svg?style=for-the-badge&logoWidth=40"/>
-      </p>
-    </td>
-    <td width="30%" valign="top" align="right">
-      <img src="https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/tu_gif.gif" width="200" height="auto" alt="Mi GIF animado" />
-    </td>
-  </tr>
-</table>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpqY2U5enFpMjMwZHNlbno4eWsybHdzNXZ2bHMzemQ1eHd3bzd1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" width="200" alt="Mi GIF animado" align="right" />
 
----
+<h1>👋 <span style="color:#8C00FF;">¡Hola!</span> Soy <span style="color:#FF0066;">Christian Andrés Viuche</span></h1>
+<h3>💻 <span style="color:#FC4F00;">Estudiante de Ingeniería de Sistemas</span></h3>
+<p>
+  <img src="https://img.shields.io/badge/⚙️%20%20DevOps%20%20-%238C00FF.svg?style=for-the-badge&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/🧪%20%20QA%20Automation%20%20-%23FF0066.svg?style=for-the-badge&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/☁️%20%20Cloud%20Computing%20%20-%23FC4F00.svg?style=for-the-badge&logoWidth=40"/>
+</p>
+
 
 ### 🚀 <span style="color:#8C00FF;">Sobre mí</span>
 
 Soy un estudiante apasionado por la <span style="color:#8C00FF;">**cultura DevOps**</span>, el <span style="color:#FF0066;">**Testing (QA)**</span> y la <span style="color:#FC4F00;">**computación en la nube (AWS)**</span>.  
 Actualmente me encuentro desarrollando un portafolio enfocado en la <span style="color:#FF0066;">**automatización**</span>, la <span style="color:#8C00FF;">**calidad del software**</span> y la <span style="color:#FC4F00;">**entrega continua (CI/CD)**</span>.  
 
-💡 Mi meta es integrar la <span style="color:#FF0066;">automatización</span>, la <span style="color:#8C00FF;">calidad</span> y las <span style="color:#FC4F00;">buenas prácticas</span> en cada etapa del desarrollo.  
-📦 Tecnologías con las que trabajo a diario: <span style="color:#8C00FF;">**Git**</span>, <span style="color:#FF0066;">**Docker**</span>, <span style="color:#FC4F00;">**AWS**</span>, <span style="color:#8C00FF;">**Selenium**</span>, <span style="color:#FF0066;">**Postman**</span> y <span style="color:#FC4F00;">**Jenkins**</span>.  
-🌱 Siempre aprendiendo más sobre <span style="color:#FF0066;">**pipelines**</span>, <span style="color:#8C00FF;">**infraestructura como código**</span> y <span style="color:#FC4F00;">**pruebas automatizadas**</span>.
+* 💡 Mi meta es integrar la <span style="color:#FF0066;">automatización</span>, la <span style="color:#8C00FF;">calidad</span> y las <span style="color:#FC4F00;">buenas prácticas</span> en cada etapa del desarrollo.  
+* 📦 Tecnologías con las que trabajo a diario: <span style="color:#8C00FF;">**Git**</span>, <span style="color:#FF0066;">**Docker**</span>, <span style="color:#FC4F00;">**AWS**</span>, <span style="color:#8C00FF;">**Selenium**</span>, <span style="color:#FF0066;">**Postman**</span> y <span style="color:#FC4F00;">**Jenkins**</span>.  
+* 🌱 Siempre aprendiendo más sobre <span style="color:#FF0066;">**pipelines**</span>, <span style="color:#8C00FF;">**infraestructura como código**</span> y <span style="color:#FC4F00;">**pruebas automatizadas**</span>.
 
 ---
 
@@ -39,7 +31,6 @@ Actualmente me encuentro desarrollando un portafolio enfocado en la <span style=
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="jenkins"/>
 </p>
 
----
 
 ### 💼 <span style="color:#FF0066;">Proyectos Destacados</span>
 
@@ -64,14 +55,3 @@ Despliegue de infraestructura en AWS con Terraform.
 * 🤘 <span style="color:#8C00FF;">Apasionado del rock y la guitarra eléctrica</span>
 
 ---
-
-### 📫 <span style="color:#FF0066;">¿Conectamos?</span>
-
-<p>
-  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tu.email@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
