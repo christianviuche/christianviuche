@@ -45,17 +45,6 @@ I am currently developing a portfolio focused on <span style="color:#FF0066;">**
 
 ### 💼 <span style="color:#FF0066;">Featured Projects</span>
 
-#### 🔧 <span style="color:#8C00FF;">CI/CD Pipeline Demo</span>
-Automated pipeline with Jenkins, Docker, and GitHub Actions.  
-**Stack:** <span style="color:#FC4F00;">Jenkins · Docker · GitHub Actions</span>
-
-#### 🧩 <span style="color:#FF0066;">Selenium Test Suite</span>
-Automation of functional tests for a web application.  
-**Stack:** <span style="color:#8C00FF;">Selenium · Java · TestNG</span>
-
-#### ☁️ <span style="color:#FC4F00;">AWS Deployment Lab</span>
-Deployment of infrastructure on AWS with Terraform.  
-**Stack:** <span style="color:#FF0066;">AWS · Terraform · EC2</span>
 
 ---
 
