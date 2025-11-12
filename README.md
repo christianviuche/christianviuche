@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM245cDB1cTRvd2hmdW92ajZpYXQ0ZmJ0bmR6a2NocGoxNW03aXNlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tfkoQe6fWwPzB3sHj2/giphy.gif" alt="Gato programando" width="280px" height="180px">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdqbDdzZzYwMHFhbjA1M2hzdW00OTd4eWI0dnN6ODY5czFleHA2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" width="350">
 </p>
 
-<h1 align="center">¡Hola! Soy Christian Andrés Viuche Madroñero 👋</h1>
+<h1 align="center">¡Hola! Soy Christian Andrés Viuche 👋</h1>
 <p align="center">
-  Un Estudiante de Ingeniería de Sistemas 💻, apasionado por la cultura <b>DevOps</b>, el <b>Testing (QA)</b> y el <b>Cloud Computing</b>.
+  Estudiante de Ingeniería de Sistemas 💻, apasionado por la cultura <b>DevOps</b>, el <b>Testing (QA)</b> y el <b>Cloud Computing</b>.
   <br />
   ¡Construyendo un portafolio enfocado en la automatización y la calidad!
 </p>
@@ -22,29 +22,24 @@
 ### 👨‍💻 Sobre Mí
 
 * 🔭 Actualmente estoy enfocado en construir mi portafolio de proyectos de DevOps y QA.
-* 🌱 Estoy aprendiendo sobre **CI/CD**, **Automatización de Pruebas** y herramientas Cloud (especialmente AWS).
-* 💬 Pregúntame sobre: Cultura DevOps, Git, Calidad de Software (QA) y pipelines básicos.
-* 📫 Cómo contactarme: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
+* 🌱 Estoy aprendiendo sobre **CI/CD**, **Automatización de Pruebas** y **herramientas Cloud (especialmente AWS)**.
 
-### 🛠️ Mi Stack de Tecnologías (Enfocado)
+### 🛠️ Mi Stack de Tecnologías
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" alt="postman" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
 </p>
 
-### 📊 Mis Estadísticas de GitHub
+### ⚡ Hobbies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christianviuche&show_icons=true&count_private=true&theme=radical" alt="Estadísticas de Christian" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianviuche&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
+* 😺 Amante de los gatos.
+* 🎌 Viendo anime (¡siempre en busca de una buena recomendación!).
+* 🤘 Fanático del Rock.
 
 ### 📫 ¿Conectamos?
 
