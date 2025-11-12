@@ -11,7 +11,7 @@
     </td>
     <td width="350" align="center">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpqY2U5enFpMjMwZHNlbmo4eWsybHdzNXZ2bHMzemQ1eHd3bzd1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif"
-            width="350" 
+            width="280" 
             alt="DevOps animation"/>
     </td>
   </tr>
