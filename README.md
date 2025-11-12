@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/⚙️%20%20DevOps%20%20-%238C00FF.svg?style=for-the-badge&logoWidth=40"/>
   <img src="https://img.shields.io/badge/🧪%20%20QA%20Automation%20%20-%23FF0066.svg?style=for-the-badge&logoWidth=40"/>
-  <img src="https://img.shields.io/badge/☁️%20%20Cloud%20Enthusiast%20%20-%23FC4F00.svg?style=for-the-badge&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/☁️%20%20Cloud%20Computing%20%20-%23FC4F00.svg?style=for-the-badge&logoWidth=40"/>
 </p>
 
 ---
