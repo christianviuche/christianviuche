@@ -1,18 +1,19 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdqbDdzZzYwMHFhbjA1M2hzdW00OTd4eWI0dnN6ODY5czFleHA2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" width="200"/>
-</p>
-
-<h1 align="center">👋 <span style="color:#8C00FF;">¡Hola!</span> Soy <span style="color:#FF0066;">Christian Andrés Viuche</span></h1>
-
-<h3 align="center">
-💻 <span style="color:#FC4F00;">Estudiante de Ingeniería de Sistemas</span>
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚙️%20%20DevOps%20%20-%238C00FF.svg?style=for-the-badge&logoWidth=40"/>
-  <img src="https://img.shields.io/badge/🧪%20%20QA%20Automation%20%20-%23FF0066.svg?style=for-the-badge&logoWidth=40"/>
-  <img src="https://img.shields.io/badge/☁️%20%20Cloud%20Computing%20%20-%23FC4F00.svg?style=for-the-badge&logoWidth=40"/>
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="70%" valign="top">
+      <h1>👋 <span style="color:#8C00FF;">¡Hola!</span> Soy <span style="color:#FF0066;">Christian Andrés Viuche</span></h1>
+      <h3>💻 <span style="color:#FC4F00;">Estudiante de Ingeniería de Sistemas</span></h3>
+      <p>
+        <img src="https://img.shields.io/badge/⚙️%20%20DevOps%20%20-%238C00FF.svg?style=for-the-badge&logoWidth=40"/>
+        <img src="https://img.shields.io/badge/🧪%20%20QA%20Automation%20%20-%23FF0066.svg?style=for-the-badge&logoWidth=40"/>
+        <img src="https://img.shields.io/badge/☁️%20%20Cloud%20Computing%20%20-%23FC4F00.svg?style=for-the-badge&logoWidth=40"/>
+      </p>
+    </td>
+    <td width="30%" valign="top" align="right">
+      <img src="https://raw.githubusercontent.com/tu_usuario/tu_repositorio/main/tu_gif.gif" width="200" height="auto" alt="Mi GIF animado" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -42,12 +43,35 @@ Actualmente me encuentro desarrollando un portafolio enfocado en la <span style=
 
 ### 💼 <span style="color:#FF0066;">Proyectos Destacados</span>
 
+#### 🔧 <span style="color:#8C00FF;">CI/CD Pipeline Demo</span>
+Pipeline automatizado con Jenkins, Docker y GitHub Actions.  
+**Stack:** <span style="color:#FC4F00;">Jenkins · Docker · GitHub Actions</span>
 
+#### 🧩 <span style="color:#FF0066;">Selenium Test Suite</span>
+Automatización de pruebas funcionales para una aplicación web.  
+**Stack:** <span style="color:#8C00FF;">Selenium · Java · TestNG</span>
+
+#### ☁️ <span style="color:#FC4F00;">AWS Deployment Lab</span>
+Despliegue de infraestructura en AWS con Terraform.  
+**Stack:** <span style="color:#FF0066;">AWS · Terraform · EC2</span>
 
 ---
 
 ### ⚡ <span style="color:#8C00FF;">Hobbies</span>
 
-😺 <span style="color:#FF0066;">Amante de los gatos</span>  
-🎌 <span style="color:#FC4F00;">Fan del anime</span>  
-🤘 <span style="color:#8C00FF;">Apasionado del rock y la guitarra eléctrica</span>
+* 😺 <span style="color:#FF0066;">Amante de los gatos</span>  
+* 🎌 <span style="color:#FC4F00;">Fan del anime</span>  
+* 🤘 <span style="color:#8C00FF;">Apasionado del rock y la guitarra eléctrica</span>
+
+---
+
+### 📫 <span style="color:#FF0066;">¿Conectamos?</span>
+
+<p>
+  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tu.email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
