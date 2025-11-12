@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdqbDdzZzYwMHFhbjA1M2hzdW00OTd4eWI0dnN6ODY5czFleHA2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" width="350">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdqbDdzZzYwMHFhbjA1M2hzdW00OTd4eWI0dnN6ODY5czFleHA2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" width="150">
 </p>
 
 <h1 align="center">¡Hola! Soy Christian Andrés Viuche 👋</h1>
