@@ -1,50 +1,63 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdqbDdzZzYwMHFhbjA1M2hzdW00OTd4eWI0dnN6ODY5czFleHA2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" width="200">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdqbDdzZzYwMHFhbjA1M2hzdW00OTd4eWI0dnN6ODY5czFleHA2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif" width="200"/>
 </p>
 
-<h1 align="center">¡Hola! Soy Christian Andrés Viuche 👋</h1>
-<p align="center">
-  Estudiante de Ingeniería de Sistemas 💻, apasionado por la cultura <b>DevOps</b>, el <b>Testing (QA)</b> y el <b>Cloud Computing</b>.
-  <br />
-  ¡Construyendo un portafolio enfocado en la automatización y la calidad!
-</p>
+<h1 align="center">👋 <span style="color:#8C00FF;">¡Hola!</span> Soy <span style="color:#FF0066;">Christian Andrés Viuche</span></h1>
+
+<h3 align="center">
+💻 <span style="color:#FC4F00;">Estudiante de Ingeniería de Sistemas</span>
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚙️%20%20DevOps%20%20-%238C00FF.svg?style=for-the-badge&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/🧪%20%20QA%20Automation%20%20-%23FF0066.svg?style=for-the-badge&logoWidth=40"/>
+  <img src="https://img.shields.io/badge/☁️%20%20Cloud%20Enthusiast%20%20-%23FC4F00.svg?style=for-the-badge&logoWidth=40"/>
 </p>
 
 ---
 
-### 👨‍💻 Sobre Mí
+### 🚀 <span style="color:#8C00FF;">Sobre mí</span>
 
-* 🔭 Actualmente estoy enfocado en construir mi portafolio de proyectos de DevOps y QA.
-* 🌱 Estoy aprendiendo sobre **CI/CD**, **Automatización de Pruebas** y **herramientas Cloud (especialmente AWS)**.
+Soy un estudiante apasionado por la <span style="color:#8C00FF;">**cultura DevOps**</span>, el <span style="color:#FF0066;">**Testing (QA)**</span> y la <span style="color:#FC4F00;">**computación en la nube (AWS)**</span>.  
+Actualmente me encuentro desarrollando un portafolio enfocado en la <span style="color:#FF0066;">**automatización**</span>, la <span style="color:#8C00FF;">**calidad del software**</span> y la <span style="color:#FC4F00;">**entrega continua (CI/CD)**</span>.  
 
-### 🛠️ Mi Stack de Tecnologías
+💡 Mi meta es integrar la <span style="color:#FF0066;">automatización</span>, la <span style="color:#8C00FF;">calidad</span> y las <span style="color:#FC4F00;">buenas prácticas</span> en cada etapa del desarrollo.  
+📦 Tecnologías con las que trabajo a diario: <span style="color:#8C00FF;">**Git**</span>, <span style="color:#FF0066;">**Docker**</span>, <span style="color:#FC4F00;">**AWS**</span>, <span style="color:#8C00FF;">**Selenium**</span>, <span style="color:#FF0066;">**Postman**</span> y <span style="color:#FC4F00;">**Jenkins**</span>.  
+🌱 Siempre aprendiendo más sobre <span style="color:#FF0066;">**pipelines**</span>, <span style="color:#8C00FF;">**infraestructura como código**</span> y <span style="color:#FC4F00;">**pruebas automatizadas**</span>.
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
+---
+
+### 🛠️ <span style="color:#8C00FF;">Stack Tecnológico</span>
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45" alt="aws"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="45" height="45" alt="selenium"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="jenkins"/>
 </p>
 
-### ⚡ Hobbies
+---
 
-* 😺 Amante de los gatos.
-* 🎌 Viendo anime (¡siempre en busca de una buena recomendación!).
-* 🤘 Fanático del Rock.
+### 💼 <span style="color:#FF0066;">Proyectos Destacados</span>
 
-### 📫 ¿Conectamos?
+#### 🔧 <span style="color:#8C00FF;">CI/CD Pipeline Demo</span>
+Pipeline automatizado con Jenkins, Docker y GitHub Actions.  
+**Stack:** <span style="color:#FC4F00;">Jenkins · Docker · GitHub Actions</span>
 
-<p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+#### 🧩 <span style="color:#FF0066;">Selenium Test Suite</span>
+Automatización de pruebas funcionales para una aplicación web.  
+**Stack:** <span style="color:#8C00FF;">Selenium · Java · TestNG</span>
+
+#### ☁️ <span style="color:#FC4F00;">AWS Deployment Lab</span>
+Despliegue de infraestructura en AWS con Terraform.  
+**Stack:** <span style="color:#FF0066;">AWS · Terraform · EC2</span>
+
+---
+
+### ⚡ <span style="color:#8C00FF;">Hobbies</span>
+
+😺 <span style="color:#FF0066;">Amante de los gatos</span>  
+🎌 <span style="color:#FC4F00;">Fan del anime</span>  
+🤘 <span style="color:#8C00FF;">Apasionado del rock y la guitarra eléctrica</span>
