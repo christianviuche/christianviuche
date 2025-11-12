@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/☁️%20%20Cloud%20Computing%20%20-%23FC4F00.svg?style=for-the-badge&logoWidth=40" height="40"/>
 </p>
     </td>
-    <td width="300" align="center">
+    <td width="320" align="center">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpqY2U5enFpMjMwZHNlbmo4eWsybHdzNXZ2bHMzemQ1eHd3bzd1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif"T
             width="350" 
             alt="DevOps animation"/>
