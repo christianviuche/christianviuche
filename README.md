@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM245cDB1cTRvd2hmdW92ajZpYXQ0ZmJ0bmR6a2NocGoxNW03aXNlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tfkoQe6fWwPzB3sHj2/giphy.gif" alt="Gato programando" width="280px" height="180px">
 </p>
 
 <h1 align="center">¡Hola! Soy Christian Andrés Viuche Madroñero 👋</h1>
@@ -24,17 +24,17 @@
 * 🔭 Actualmente estoy enfocado en construir mi portafolio de proyectos de DevOps y QA.
 * 🌱 Estoy aprendiendo sobre **CI/CD**, **Automatización de Pruebas** y herramientas Cloud (especialmente AWS).
 * 💬 Pregúntame sobre: Cultura DevOps, Git, Calidad de Software (QA) y pipelines básicos.
-* 📫 Cómo contactarme: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com) ### 🛠️ Mi Stack de Tecnologías (Enfocado)
+* 📫 Cómo contactarme: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
+
+### 🛠️ Mi Stack de Tecnologías (Enfocado)
 
 <p align="left">
-    <img src="https://raw.githubusercontent/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-    
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" alt="postman" width="40" height="40"/>
-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
