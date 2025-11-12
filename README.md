@@ -1,18 +1,18 @@
-<table>
+<table width="100%">
   <tr>
     <td>
       <h1>👋 <span style="color:#8C00FF;">¡Hola!</span> Soy <span style="color:#FF0066;">Christian Andrés Viuche</span></h1>
       <h3>💻 <span style="color:#FC4F00;">Estudiante de Ingeniería de Sistemas</span></h3>
       <p>
-  <img src="https://img.shields.io/badge/⚙️%20%20DevOps%20%20-%238C00FF.svg?style=for-the-badge&logoWidth=40" height="40"/>
-  <img src="https://img.shields.io/badge/🧪%20%20QA%20Automation%20%20-%23FF0066.svg?style=for-the-badge&logoWidth=40" height="40"/>
-  <img src="https://img.shields.io/badge/☁️%20%20Cloud%20Computing%20%20-%23FC4F00.svg?style=for-the-badge&logoWidth=40" height="40"/>
+  <img src="https://img.shields.io/badge/⚙️%20%20DevOps%20%20-%238C00FF.svg?style=for-the-badge&logoWidth=40" height="40"/>
+  <img src="https://img.shields.io/badge/🧪%20%20QA%20Automation%20%20-%23FF0066.svg?style=for-the-badge&logoWidth=40" height="40"/>
+  <img src="https://img.shields.io/badge/☁️%20%20Cloud%20Computing%20%20-%23FC4F00.svg?style=for-the-badge&logoWidth=40" height="40"/>
 </p>
     </td>
-    <td width="320" align="center">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpqY2U5enFpMjMwZHNlbmo4eWsybHdzNXZ2bHMzemQ1eHd3bzd1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif"T
-            width="350" 
-            alt="DevOps animation"/>
+    <td width="350" align="center">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpqY2U5enFpMjMwZHNlbmo4eWsybHdzNXZ2bHMzemQ1eHd3bzd1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hENDkVRxKsctCpuAun/giphy.gif"
+            width="350" 
+            alt="DevOps animation"/>
     </td>
   </tr>
 </table>
